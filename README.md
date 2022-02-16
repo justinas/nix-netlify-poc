@@ -10,4 +10,4 @@ and uses it to build a "website".
 
 Use the following settings in Netlify:
 * Build command: `./build.sh`
-* Publish directory: `output
+* Publish directory: `output`
